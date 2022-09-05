@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hi My Name Is Rob
+author: Rob Cary
 email: r0bc4ry@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Rob Cary - an experienced programmer sharing some of my thoughts about my work inside Unity.
