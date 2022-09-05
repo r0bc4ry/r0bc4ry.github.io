@@ -21,14 +21,18 @@
 title: Hi My Name Is Rob
 email: r0bc4ry@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I'm Rob Cary - an experienced programmer sharing some of my thoughts about my work inside Unity.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: r0bc4ry.github.io
-url: https://r0bc4ry.github.io
+url: https://himynameisrob.com
 twitter_username: r0bc4ry
-github_username:  r0bc4ry
+github_username: r0bc4ry
+
+# Disqus settings
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: himynameisrob
 
 # Build settings
 theme: minima
